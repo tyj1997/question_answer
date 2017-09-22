@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>C:/Users/Administrator/Desktop/login.jpg</file>
+        <file>C:/Users/Administrator/Desktop/test.jpg</file>
+        <file>register.jpg</file>
+    </qresource>
+</RCC>
